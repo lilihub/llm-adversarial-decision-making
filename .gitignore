@@ -19,3 +19,6 @@ api_keys.json
 
 # Large computational modelling fits
 MRTT/computational_modelling/results/fits/
+
+# Separate computational modelling project
+MRTT/computational_modelling/

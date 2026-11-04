@@ -1,4 +1,0 @@
-"scenario","max_rhat","min_bulk_neff","divergences","treedepth_saturated","min_ebfmi"
-"reference",1.01923057354536,76.4379029047078,0,0,0.744356563935822
-"low_alpha_high_beta",1.03879784191563,53.0191639582068,0,0,0.77163177195417
-"high_alpha_low_beta",1.03235370066835,115.820120382667,0,0,0.883229156797373

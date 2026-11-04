@@ -1,5 +1,0 @@
-"model","runs","rounds","min_investment","max_investment","zero_investments","informative_trials"
-"GPT-3.5 Turbo",259,2590,0,20,857,1733
-"GPT-4 Turbo",200,2000,0,18,671,1329
-"Gemini 1.5",200,2000,0,20,1221,779
-"DeepSeek-V3",200,2000,0,10,117,1883
