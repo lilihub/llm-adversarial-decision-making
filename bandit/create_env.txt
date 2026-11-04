@@ -1,0 +1,4 @@
+conda create -n LLM anaconda python=3.11.5
+conda activate LLM
+conda install openai
+conda install tensorflow

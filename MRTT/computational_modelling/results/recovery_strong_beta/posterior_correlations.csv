@@ -1,0 +1,2614 @@
+"scenario","model","level","parameter_1","parameter_2","posterior_correlation"
+"reference","GPT-3.5 Turbo","group","median_alpha","beta",-0.801795541322607
+"reference","GPT-3.5 Turbo","group","median_v0","b",-0.225274142336565
+"reference","GPT-3.5 Turbo","group","median_v0","median_alpha",-0.243370462863062
+"reference","GPT-4 Turbo","group","median_alpha","beta",-0.788197894899615
+"reference","GPT-4 Turbo","group","median_v0","b",-0.648110727823069
+"reference","GPT-4 Turbo","group","median_v0","median_alpha",-0.0708842001216712
+"reference","Gemini 1.5","group","median_alpha","beta",-0.812603255757762
+"reference","Gemini 1.5","group","median_v0","b",-0.56041392569612
+"reference","Gemini 1.5","group","median_v0","median_alpha",0.281751930867038
+"reference","DeepSeek-V3","group","median_alpha","beta",-0.733210924861274
+"reference","DeepSeek-V3","group","median_v0","b",-0.487869037055362
+"reference","DeepSeek-V3","group","median_v0","median_alpha",0.231916675197431
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.00834680044905825
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0527037902670617
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.173273756040388
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0139702866096522
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0244278446894602
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0267888640983196
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0747981818197025
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.141995664740954
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.142965573664449
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.124350544121578
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.000828006688737847
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.137471647686515
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0133752999585398
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.12017377677357
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.134350633437917
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.059518338728257
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0241191101050443
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.190176032410146
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0683696865842061
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.13668288594661
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.063775929610795
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0994830359502834
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0675218027487718
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0196036903722485
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0243662497942231
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.107234517581346
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0241520929238619
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0212121844546942
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.013379669063093
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0590975033999201
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.197840060731398
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.00272378314460025
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.129550071171325
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.00232606600900829
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0283598508935867
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.109323220704249
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0922804793454024
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.00697409597376041
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0379338263858463
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0923842029179119
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0723440708665783
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0798001163238142
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.103617247988247
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0561299152824963
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0856575795502491
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0156531414792185
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0585319112991342
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0634740359928897
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0388762075171709
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0340734658281642
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0733178450632076
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0608430911139744
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0250120397791734
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.048348977874352
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.122218527806528
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0383753158890495
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0612992878861804
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0515910228401906
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0353491786241877
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0807258604415978
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.096221939294154
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.114426198018616
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.117117125845786
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.161221264323929
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.101565060090122
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0268974739170764
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0267662525149373
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0843484212070493
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0290142728120256
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0618941315595699
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0590775477797575
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0584524616951398
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0807737657843804
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0041995680341014
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0898188402925865
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0522302175551539
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.125604294642573
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0629062000775044
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0403730619546522
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0160346037043
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.108024448678318
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0853171288933018
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0384598660182663
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0533994414483432
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.000328193757287742
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0583043203754701
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0516329534421941
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.00935254532578647
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0218402730511844
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0513962060857376
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.088324747707257
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.190049243471514
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.143989195188751
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.118481481746131
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0421554342946431
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.133500029976943
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.111846061762468
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0986712892357397
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.194589803361221
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0536316893780772
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.144444395365914
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0227777058600172
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.00745035098655434
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0409516838475095
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0238246146497084
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0249439406560617
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0550537237899468
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0587765710987503
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0105108072991129
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.00245399963315783
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0723396236693188
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0199385615604957
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0977630494219182
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0200755641761619
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0515463254602228
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0498625797215408
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0635118726178141
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0392693751434162
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.00554498600775293
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.186075049452983
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.143861129530056
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0413313574760997
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.228395947103491
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.087950592570774
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.127953272405736
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0746864806972368
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0281652431351645
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.138095757018102
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.205526163340663
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.137061290684693
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0308140888308906
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.164788005777235
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0234913465134918
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.167319125929669
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.15554635032408
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.156609142345605
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0390901800276342
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.125891875271096
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0348735551324247
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.147709070788589
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0402208889883787
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0382351095751531
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.117530760776837
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0775975533189575
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.039478516821864
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.00928595241432732
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.00462121319824875
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0203661777073797
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0163201794154938
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0178567622914923
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0773146700116774
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.07573299328438
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.097665196033647
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.102554835467663
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0845269110020549
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0726856385363536
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0271799023557319
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.103640958339992
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0718945995084511
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0080454711392461
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.072943593350609
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0764237211665051
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0533697375430045
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0176697310518441
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0147471459476559
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.00987406193272102
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0063410249122452
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.117086840187962
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0241038257861556
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.147563714817357
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0622702027125164
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0355246466678143
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0265579299446147
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0261740314432365
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.151929803535776
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.147653554703069
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0635670686547169
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0741866761678591
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.00160582382547351
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.120442853629115
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0526214118594308
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0387733521402323
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0252529997318261
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.109765567147979
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0705847816551786
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0652305494099346
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0374935057596685
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.015702734739762
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0862585249211238
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.00170728458989562
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0871005275112315
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0997148562805233
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0767457633460049
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.117875032291399
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0541362426161742
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.188897224562624
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0194710159728445
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.144071994385499
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.143642305367811
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.132405355106043
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.00803592487234452
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.00165752106694205
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.026087399854778
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0254417707327765
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0286642655184251
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0488441949511913
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.128497677437996
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0177697549990053
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.116655172264836
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0111246171934606
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.07308814161695
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0444059151407909
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0553543679774798
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.00320120407626288
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0800979746190598
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0837295801765402
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0644910488737189
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0302588146104509
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0166020640196565
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0599354873376088
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0123341878583902
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0378070709190502
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0487000149443259
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0853846746871729
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.151799254974544
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.109643145500627
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0540428704147663
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0254930275858358
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.08306044334131
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0545369758805296
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.113708030200791
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0668475835264837
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0576598831807718
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0472577915249988
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.00187029051731139
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.138313735204403
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.109844200393874
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0907705879694302
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0496778848244635
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0409383662002874
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.133054528207064
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0616215006512693
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0666077253786881
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.119101998955679
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0567193478967667
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0722159399191013
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.043065225454643
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.000403429781867219
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.0240961283743635
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.227323728341931
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.223634100633482
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0710289087502311
+"reference","GPT-3.5 Turbo","run","v0","alpha",0.000883855381744858
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0389433422355384
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0319859792048866
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0380405542238444
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0302371628762387
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.0358928922315772
+"reference","GPT-3.5 Turbo","run","v0","alpha",-0.161937663272551
+"reference","GPT-4 Turbo","run","v0","alpha",0.10034985924894
+"reference","GPT-4 Turbo","run","v0","alpha",0.0612111525756815
+"reference","GPT-4 Turbo","run","v0","alpha",0.182098392254341
+"reference","GPT-4 Turbo","run","v0","alpha",-0.215923976950299
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0136079663832906
+"reference","GPT-4 Turbo","run","v0","alpha",0.055100231919655
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0550141154067889
+"reference","GPT-4 Turbo","run","v0","alpha",-0.21329161457376
+"reference","GPT-4 Turbo","run","v0","alpha",0.0783951458540067
+"reference","GPT-4 Turbo","run","v0","alpha",0.08199756396617
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0868479098344052
+"reference","GPT-4 Turbo","run","v0","alpha",0.187882826197304
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0526903064205071
+"reference","GPT-4 Turbo","run","v0","alpha",0.0121826708647825
+"reference","GPT-4 Turbo","run","v0","alpha",-0.152052193075373
+"reference","GPT-4 Turbo","run","v0","alpha",0.0188077253589471
+"reference","GPT-4 Turbo","run","v0","alpha",-0.05898858273149
+"reference","GPT-4 Turbo","run","v0","alpha",0.0259276986161469
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0870200268245027
+"reference","GPT-4 Turbo","run","v0","alpha",0.0507529145375047
+"reference","GPT-4 Turbo","run","v0","alpha",0.0455912824600327
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0640274031401721
+"reference","GPT-4 Turbo","run","v0","alpha",0.0794024742013831
+"reference","GPT-4 Turbo","run","v0","alpha",0.0486161345613171
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0583359994865629
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0646977989520703
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0190096558147502
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0473753901315
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0955833019252025
+"reference","GPT-4 Turbo","run","v0","alpha",0.131670496417769
+"reference","GPT-4 Turbo","run","v0","alpha",-0.147344848967046
+"reference","GPT-4 Turbo","run","v0","alpha",0.0866142306038179
+"reference","GPT-4 Turbo","run","v0","alpha",0.0315464684529637
+"reference","GPT-4 Turbo","run","v0","alpha",0.143943382959659
+"reference","GPT-4 Turbo","run","v0","alpha",0.0123847304784321
+"reference","GPT-4 Turbo","run","v0","alpha",-0.134498100201148
+"reference","GPT-4 Turbo","run","v0","alpha",0.0517282729045962
+"reference","GPT-4 Turbo","run","v0","alpha",0.0333628844310701
+"reference","GPT-4 Turbo","run","v0","alpha",0.0382300822829669
+"reference","GPT-4 Turbo","run","v0","alpha",-0.17914162723654
+"reference","GPT-4 Turbo","run","v0","alpha",0.0375948798656237
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0896067480800269
+"reference","GPT-4 Turbo","run","v0","alpha",-0.180629989845267
+"reference","GPT-4 Turbo","run","v0","alpha",0.177524335055438
+"reference","GPT-4 Turbo","run","v0","alpha",0.234514738058378
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0641852065628144
+"reference","GPT-4 Turbo","run","v0","alpha",0.0802951743905382
+"reference","GPT-4 Turbo","run","v0","alpha",0.143243958526162
+"reference","GPT-4 Turbo","run","v0","alpha",0.129575364168127
+"reference","GPT-4 Turbo","run","v0","alpha",-0.00903322412778566
+"reference","GPT-4 Turbo","run","v0","alpha",0.0692800445166763
+"reference","GPT-4 Turbo","run","v0","alpha",0.151210635788449
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0652729187168734
+"reference","GPT-4 Turbo","run","v0","alpha",0.0632211457399582
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0957632052637686
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0159849075906851
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0346437695705266
+"reference","GPT-4 Turbo","run","v0","alpha",-0.180124116815827
+"reference","GPT-4 Turbo","run","v0","alpha",0.222921331134203
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0222228372362422
+"reference","GPT-4 Turbo","run","v0","alpha",0.111393553880247
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0684493849780688
+"reference","GPT-4 Turbo","run","v0","alpha",-0.1005252524689
+"reference","GPT-4 Turbo","run","v0","alpha",0.100724247871395
+"reference","GPT-4 Turbo","run","v0","alpha",0.00857749004975272
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0598720142687142
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0869949831584759
+"reference","GPT-4 Turbo","run","v0","alpha",-0.000462081076871828
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0199313757783468
+"reference","GPT-4 Turbo","run","v0","alpha",0.116672116873733
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0273918146304666
+"reference","GPT-4 Turbo","run","v0","alpha",0.136227247516052
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0418571254316659
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0664183387934679
+"reference","GPT-4 Turbo","run","v0","alpha",0.0216009190972899
+"reference","GPT-4 Turbo","run","v0","alpha",0.23470397003139
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0130994433187922
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0803145034330714
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0417098635335833
+"reference","GPT-4 Turbo","run","v0","alpha",-0.000102894740463975
+"reference","GPT-4 Turbo","run","v0","alpha",0.0174138187627602
+"reference","GPT-4 Turbo","run","v0","alpha",0.0013443550286546
+"reference","GPT-4 Turbo","run","v0","alpha",0.0810485982776794
+"reference","GPT-4 Turbo","run","v0","alpha",0.140619483191478
+"reference","GPT-4 Turbo","run","v0","alpha",-0.095459963511451
+"reference","GPT-4 Turbo","run","v0","alpha",0.027027765704908
+"reference","GPT-4 Turbo","run","v0","alpha",-0.199388143666182
+"reference","GPT-4 Turbo","run","v0","alpha",0.0195481746201041
+"reference","GPT-4 Turbo","run","v0","alpha",-0.15739448244106
+"reference","GPT-4 Turbo","run","v0","alpha",-0.248317848173299
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0086726552527891
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0910381703125731
+"reference","GPT-4 Turbo","run","v0","alpha",-0.00485554734605922
+"reference","GPT-4 Turbo","run","v0","alpha",-0.132841732151348
+"reference","GPT-4 Turbo","run","v0","alpha",0.0831878871385443
+"reference","GPT-4 Turbo","run","v0","alpha",0.0977210176860558
+"reference","GPT-4 Turbo","run","v0","alpha",0.0244238666196751
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0340802455836632
+"reference","GPT-4 Turbo","run","v0","alpha",0.21065756600774
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0593212730030501
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0125023140886965
+"reference","GPT-4 Turbo","run","v0","alpha",0.0635025637986003
+"reference","GPT-4 Turbo","run","v0","alpha",-0.133978803241686
+"reference","GPT-4 Turbo","run","v0","alpha",0.114569709945514
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0629446160140721
+"reference","GPT-4 Turbo","run","v0","alpha",-0.205341855571259
+"reference","GPT-4 Turbo","run","v0","alpha",-0.165261528445205
+"reference","GPT-4 Turbo","run","v0","alpha",-0.16770527793165
+"reference","GPT-4 Turbo","run","v0","alpha",-0.176945714746764
+"reference","GPT-4 Turbo","run","v0","alpha",-0.176876687898145
+"reference","GPT-4 Turbo","run","v0","alpha",0.0832770275897116
+"reference","GPT-4 Turbo","run","v0","alpha",0.0172808393307206
+"reference","GPT-4 Turbo","run","v0","alpha",0.0896547975724908
+"reference","GPT-4 Turbo","run","v0","alpha",0.106234489693141
+"reference","GPT-4 Turbo","run","v0","alpha",-0.116927924872207
+"reference","GPT-4 Turbo","run","v0","alpha",-0.10997269983809
+"reference","GPT-4 Turbo","run","v0","alpha",0.040457609259244
+"reference","GPT-4 Turbo","run","v0","alpha",0.074206604532779
+"reference","GPT-4 Turbo","run","v0","alpha",0.0467433035023028
+"reference","GPT-4 Turbo","run","v0","alpha",0.0757552164667663
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0182437822013897
+"reference","GPT-4 Turbo","run","v0","alpha",0.100729230199709
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0816332905646658
+"reference","GPT-4 Turbo","run","v0","alpha",-0.14268789100151
+"reference","GPT-4 Turbo","run","v0","alpha",-0.15053662384938
+"reference","GPT-4 Turbo","run","v0","alpha",0.0557179154519091
+"reference","GPT-4 Turbo","run","v0","alpha",0.17704242776848
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0695846379383024
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0328872597730964
+"reference","GPT-4 Turbo","run","v0","alpha",0.0403574364815496
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0848185574189099
+"reference","GPT-4 Turbo","run","v0","alpha",0.0281158576126986
+"reference","GPT-4 Turbo","run","v0","alpha",0.185137066611119
+"reference","GPT-4 Turbo","run","v0","alpha",0.122509776876569
+"reference","GPT-4 Turbo","run","v0","alpha",0.00481172444401045
+"reference","GPT-4 Turbo","run","v0","alpha",0.080245963534185
+"reference","GPT-4 Turbo","run","v0","alpha",0.0432941185147705
+"reference","GPT-4 Turbo","run","v0","alpha",0.154087416336434
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0656252435782841
+"reference","GPT-4 Turbo","run","v0","alpha",0.0735086931457333
+"reference","GPT-4 Turbo","run","v0","alpha",0.153330639014847
+"reference","GPT-4 Turbo","run","v0","alpha",-0.00725859335381638
+"reference","GPT-4 Turbo","run","v0","alpha",0.128088377817239
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0736886845265796
+"reference","GPT-4 Turbo","run","v0","alpha",0.0579528201565006
+"reference","GPT-4 Turbo","run","v0","alpha",0.0430694064455285
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0373283526285442
+"reference","GPT-4 Turbo","run","v0","alpha",-0.162425527926426
+"reference","GPT-4 Turbo","run","v0","alpha",0.0752906138859277
+"reference","GPT-4 Turbo","run","v0","alpha",-0.00200706791278436
+"reference","GPT-4 Turbo","run","v0","alpha",0.0596981227446722
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0792772153866439
+"reference","GPT-4 Turbo","run","v0","alpha",0.0557095348557688
+"reference","GPT-4 Turbo","run","v0","alpha",0.0427344396524272
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0106628771211191
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0831821808758155
+"reference","GPT-4 Turbo","run","v0","alpha",0.0236825525141366
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0312378634020609
+"reference","GPT-4 Turbo","run","v0","alpha",0.0835947040996087
+"reference","GPT-4 Turbo","run","v0","alpha",-0.133481939875003
+"reference","GPT-4 Turbo","run","v0","alpha",0.00307470610301806
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0417007498913778
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0737200395905269
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0156891604065999
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0393446869318395
+"reference","GPT-4 Turbo","run","v0","alpha",-0.105491150729274
+"reference","GPT-4 Turbo","run","v0","alpha",0.0158604559655402
+"reference","GPT-4 Turbo","run","v0","alpha",-0.199526699261007
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0411897188198138
+"reference","GPT-4 Turbo","run","v0","alpha",-0.102756636960748
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0758616248916132
+"reference","GPT-4 Turbo","run","v0","alpha",0.0341113682736474
+"reference","GPT-4 Turbo","run","v0","alpha",-0.121383013782943
+"reference","GPT-4 Turbo","run","v0","alpha",-0.179098298310818
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0257144283037816
+"reference","GPT-4 Turbo","run","v0","alpha",0.0353884604844358
+"reference","GPT-4 Turbo","run","v0","alpha",0.0332421922702809
+"reference","GPT-4 Turbo","run","v0","alpha",-0.227610371158275
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0900384247736296
+"reference","GPT-4 Turbo","run","v0","alpha",-0.108529694374409
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0604913847488741
+"reference","GPT-4 Turbo","run","v0","alpha",0.0809288621884446
+"reference","GPT-4 Turbo","run","v0","alpha",0.043429418457448
+"reference","GPT-4 Turbo","run","v0","alpha",-0.123173925406032
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0541923030477411
+"reference","GPT-4 Turbo","run","v0","alpha",0.0387764860302174
+"reference","GPT-4 Turbo","run","v0","alpha",0.0152962038453041
+"reference","GPT-4 Turbo","run","v0","alpha",0.233691603450114
+"reference","GPT-4 Turbo","run","v0","alpha",0.191876999369754
+"reference","GPT-4 Turbo","run","v0","alpha",0.000862149224059922
+"reference","GPT-4 Turbo","run","v0","alpha",-0.0712077148566173
+"reference","GPT-4 Turbo","run","v0","alpha",0.0916995506377296
+"reference","GPT-4 Turbo","run","v0","alpha",-0.147902662423247
+"reference","GPT-4 Turbo","run","v0","alpha",-0.210532762627437
+"reference","GPT-4 Turbo","run","v0","alpha",0.00652569480042285
+"reference","GPT-4 Turbo","run","v0","alpha",0.0349449453212719
+"reference","GPT-4 Turbo","run","v0","alpha",0.0997176509967637
+"reference","GPT-4 Turbo","run","v0","alpha",-0.115519897745703
+"reference","GPT-4 Turbo","run","v0","alpha",0.0256749567268978
+"reference","GPT-4 Turbo","run","v0","alpha",0.0669011560307971
+"reference","Gemini 1.5","run","v0","alpha",0.0298881794976608
+"reference","Gemini 1.5","run","v0","alpha",0.123560252540231
+"reference","Gemini 1.5","run","v0","alpha",0.0399689893898537
+"reference","Gemini 1.5","run","v0","alpha",-0.17815748168987
+"reference","Gemini 1.5","run","v0","alpha",0.136665233683052
+"reference","Gemini 1.5","run","v0","alpha",0.0463446131324535
+"reference","Gemini 1.5","run","v0","alpha",0.0545935518245945
+"reference","Gemini 1.5","run","v0","alpha",0.110821340701971
+"reference","Gemini 1.5","run","v0","alpha",0.157225949614637
+"reference","Gemini 1.5","run","v0","alpha",0.0714437576527859
+"reference","Gemini 1.5","run","v0","alpha",-0.144014597542794
+"reference","Gemini 1.5","run","v0","alpha",0.124984136450072
+"reference","Gemini 1.5","run","v0","alpha",0.0728576120320956
+"reference","Gemini 1.5","run","v0","alpha",0.0668360436915109
+"reference","Gemini 1.5","run","v0","alpha",-0.0513402982214848
+"reference","Gemini 1.5","run","v0","alpha",0.0819462495179759
+"reference","Gemini 1.5","run","v0","alpha",0.0859970017007128
+"reference","Gemini 1.5","run","v0","alpha",0.0235895494357718
+"reference","Gemini 1.5","run","v0","alpha",0.0379486707086681
+"reference","Gemini 1.5","run","v0","alpha",0.0489311029105135
+"reference","Gemini 1.5","run","v0","alpha",0.118021729015803
+"reference","Gemini 1.5","run","v0","alpha",0.0160622417848092
+"reference","Gemini 1.5","run","v0","alpha",-0.00166244195580818
+"reference","Gemini 1.5","run","v0","alpha",0.00966745144485206
+"reference","Gemini 1.5","run","v0","alpha",0.0992791960222109
+"reference","Gemini 1.5","run","v0","alpha",-0.0940049199841982
+"reference","Gemini 1.5","run","v0","alpha",0.0680724770120551
+"reference","Gemini 1.5","run","v0","alpha",0.0875816613309513
+"reference","Gemini 1.5","run","v0","alpha",0.300340467769479
+"reference","Gemini 1.5","run","v0","alpha",0.0190818081638053
+"reference","Gemini 1.5","run","v0","alpha",0.00540135439726578
+"reference","Gemini 1.5","run","v0","alpha",0.0495007165640734
+"reference","Gemini 1.5","run","v0","alpha",-0.0198199104897697
+"reference","Gemini 1.5","run","v0","alpha",-0.0362161786019677
+"reference","Gemini 1.5","run","v0","alpha",0.0205799469469511
+"reference","Gemini 1.5","run","v0","alpha",0.109328425971142
+"reference","Gemini 1.5","run","v0","alpha",0.102971358922714
+"reference","Gemini 1.5","run","v0","alpha",-0.0586657033190786
+"reference","Gemini 1.5","run","v0","alpha",-0.00801322819231879
+"reference","Gemini 1.5","run","v0","alpha",0.0259602964146166
+"reference","Gemini 1.5","run","v0","alpha",-0.0594765781105539
+"reference","Gemini 1.5","run","v0","alpha",0.0304347898280662
+"reference","Gemini 1.5","run","v0","alpha",0.130920458953013
+"reference","Gemini 1.5","run","v0","alpha",0.114544639189013
+"reference","Gemini 1.5","run","v0","alpha",0.0919959356031955
+"reference","Gemini 1.5","run","v0","alpha",0.10601554889154
+"reference","Gemini 1.5","run","v0","alpha",0.053349481623406
+"reference","Gemini 1.5","run","v0","alpha",-0.0292113749175519
+"reference","Gemini 1.5","run","v0","alpha",0.0929298211343227
+"reference","Gemini 1.5","run","v0","alpha",-0.108405971391505
+"reference","Gemini 1.5","run","v0","alpha",0.0401422520609343
+"reference","Gemini 1.5","run","v0","alpha",-0.150845995878272
+"reference","Gemini 1.5","run","v0","alpha",0.129656881372326
+"reference","Gemini 1.5","run","v0","alpha",-0.0118897526359301
+"reference","Gemini 1.5","run","v0","alpha",-0.123856189935977
+"reference","Gemini 1.5","run","v0","alpha",-0.0527913212326262
+"reference","Gemini 1.5","run","v0","alpha",0.0426990080804891
+"reference","Gemini 1.5","run","v0","alpha",0.00582569179572573
+"reference","Gemini 1.5","run","v0","alpha",0.0855525955956488
+"reference","Gemini 1.5","run","v0","alpha",0.0485534638034156
+"reference","Gemini 1.5","run","v0","alpha",0.019729797431517
+"reference","Gemini 1.5","run","v0","alpha",-0.0911256991285853
+"reference","Gemini 1.5","run","v0","alpha",0.0559986846506315
+"reference","Gemini 1.5","run","v0","alpha",0.0601797451379072
+"reference","Gemini 1.5","run","v0","alpha",0.0832966685993146
+"reference","Gemini 1.5","run","v0","alpha",0.0721587819889553
+"reference","Gemini 1.5","run","v0","alpha",0.0407897221546779
+"reference","Gemini 1.5","run","v0","alpha",0.100997484486854
+"reference","Gemini 1.5","run","v0","alpha",-0.00656090851877413
+"reference","Gemini 1.5","run","v0","alpha",-0.0258032796258807
+"reference","Gemini 1.5","run","v0","alpha",-0.0477891539689411
+"reference","Gemini 1.5","run","v0","alpha",0.0157789649815822
+"reference","Gemini 1.5","run","v0","alpha",0.0946768904232399
+"reference","Gemini 1.5","run","v0","alpha",0.0989727703012306
+"reference","Gemini 1.5","run","v0","alpha",-0.0108631883109925
+"reference","Gemini 1.5","run","v0","alpha",-0.16587223384064
+"reference","Gemini 1.5","run","v0","alpha",0.157792307997892
+"reference","Gemini 1.5","run","v0","alpha",0.0125559355029554
+"reference","Gemini 1.5","run","v0","alpha",0.174304181585405
+"reference","Gemini 1.5","run","v0","alpha",-0.0533891420228619
+"reference","Gemini 1.5","run","v0","alpha",0.0397923738264759
+"reference","Gemini 1.5","run","v0","alpha",0.0105499758945988
+"reference","Gemini 1.5","run","v0","alpha",0.136947043231633
+"reference","Gemini 1.5","run","v0","alpha",0.113023924955572
+"reference","Gemini 1.5","run","v0","alpha",-0.0811919481231158
+"reference","Gemini 1.5","run","v0","alpha",0.0473999052721986
+"reference","Gemini 1.5","run","v0","alpha",0.0917367742338971
+"reference","Gemini 1.5","run","v0","alpha",0.132518312666826
+"reference","Gemini 1.5","run","v0","alpha",0.00228049919124016
+"reference","Gemini 1.5","run","v0","alpha",0.137826253251229
+"reference","Gemini 1.5","run","v0","alpha",0.110999421735672
+"reference","Gemini 1.5","run","v0","alpha",0.0430200578065738
+"reference","Gemini 1.5","run","v0","alpha",0.0212991914394065
+"reference","Gemini 1.5","run","v0","alpha",0.034641985574725
+"reference","Gemini 1.5","run","v0","alpha",0.0289286829405543
+"reference","Gemini 1.5","run","v0","alpha",-0.0526203915337511
+"reference","Gemini 1.5","run","v0","alpha",0.0974693425746729
+"reference","Gemini 1.5","run","v0","alpha",0.0993644298816088
+"reference","Gemini 1.5","run","v0","alpha",0.0387452444733462
+"reference","Gemini 1.5","run","v0","alpha",0.00850366405532635
+"reference","Gemini 1.5","run","v0","alpha",0.111075947170031
+"reference","Gemini 1.5","run","v0","alpha",0.0310844823275866
+"reference","Gemini 1.5","run","v0","alpha",0.0162395038881007
+"reference","Gemini 1.5","run","v0","alpha",0.0624247889481568
+"reference","Gemini 1.5","run","v0","alpha",-0.0690635604464017
+"reference","Gemini 1.5","run","v0","alpha",-0.232903116034623
+"reference","Gemini 1.5","run","v0","alpha",0.0887888725820118
+"reference","Gemini 1.5","run","v0","alpha",0.215174194658535
+"reference","Gemini 1.5","run","v0","alpha",-0.101708535253627
+"reference","Gemini 1.5","run","v0","alpha",0.175536828311595
+"reference","Gemini 1.5","run","v0","alpha",0.0303007750023985
+"reference","Gemini 1.5","run","v0","alpha",-0.0191057961651039
+"reference","Gemini 1.5","run","v0","alpha",0.0973691791954248
+"reference","Gemini 1.5","run","v0","alpha",-0.0169337375942818
+"reference","Gemini 1.5","run","v0","alpha",0.118398203903913
+"reference","Gemini 1.5","run","v0","alpha",0.103614130638435
+"reference","Gemini 1.5","run","v0","alpha",-0.0282304646494174
+"reference","Gemini 1.5","run","v0","alpha",0.235646241722545
+"reference","Gemini 1.5","run","v0","alpha",0.162790293078868
+"reference","Gemini 1.5","run","v0","alpha",0.0531918005439704
+"reference","Gemini 1.5","run","v0","alpha",0.124544636124597
+"reference","Gemini 1.5","run","v0","alpha",0.102595470536765
+"reference","Gemini 1.5","run","v0","alpha",0.108878102721808
+"reference","Gemini 1.5","run","v0","alpha",0.0885870525283176
+"reference","Gemini 1.5","run","v0","alpha",-0.0752962865306378
+"reference","Gemini 1.5","run","v0","alpha",0.0461585249778324
+"reference","Gemini 1.5","run","v0","alpha",0.0425307313376645
+"reference","Gemini 1.5","run","v0","alpha",-0.117412112924856
+"reference","Gemini 1.5","run","v0","alpha",-0.0187391406262201
+"reference","Gemini 1.5","run","v0","alpha",-0.0546884907040757
+"reference","Gemini 1.5","run","v0","alpha",0.017284667411869
+"reference","Gemini 1.5","run","v0","alpha",-0.12182830003671
+"reference","Gemini 1.5","run","v0","alpha",-0.0356410935240123
+"reference","Gemini 1.5","run","v0","alpha",0.0617148413798581
+"reference","Gemini 1.5","run","v0","alpha",0.178731973035636
+"reference","Gemini 1.5","run","v0","alpha",0.119646595118283
+"reference","Gemini 1.5","run","v0","alpha",0.157771493362455
+"reference","Gemini 1.5","run","v0","alpha",-0.0784091499004112
+"reference","Gemini 1.5","run","v0","alpha",0.122108520237945
+"reference","Gemini 1.5","run","v0","alpha",0.158152366933266
+"reference","Gemini 1.5","run","v0","alpha",0.0377068336976911
+"reference","Gemini 1.5","run","v0","alpha",-0.0594567771910618
+"reference","Gemini 1.5","run","v0","alpha",0.0342493716763773
+"reference","Gemini 1.5","run","v0","alpha",-0.0464427198435127
+"reference","Gemini 1.5","run","v0","alpha",-0.157003160228972
+"reference","Gemini 1.5","run","v0","alpha",0.0568987076025154
+"reference","Gemini 1.5","run","v0","alpha",0.0307722678531085
+"reference","Gemini 1.5","run","v0","alpha",-0.0177118749058909
+"reference","Gemini 1.5","run","v0","alpha",0.142032513186872
+"reference","Gemini 1.5","run","v0","alpha",0.154603890016789
+"reference","Gemini 1.5","run","v0","alpha",-0.0408858190637268
+"reference","Gemini 1.5","run","v0","alpha",0.0143727368589276
+"reference","Gemini 1.5","run","v0","alpha",-0.0229609984070465
+"reference","Gemini 1.5","run","v0","alpha",-0.0459079219484509
+"reference","Gemini 1.5","run","v0","alpha",-0.000915096388108634
+"reference","Gemini 1.5","run","v0","alpha",-0.00333895374536534
+"reference","Gemini 1.5","run","v0","alpha",0.114299342808388
+"reference","Gemini 1.5","run","v0","alpha",0.0396362371828621
+"reference","Gemini 1.5","run","v0","alpha",0.122040143505553
+"reference","Gemini 1.5","run","v0","alpha",0.0832236362917625
+"reference","Gemini 1.5","run","v0","alpha",0.0828668979571381
+"reference","Gemini 1.5","run","v0","alpha",-0.0316746700859354
+"reference","Gemini 1.5","run","v0","alpha",0.00429532365727524
+"reference","Gemini 1.5","run","v0","alpha",0.0371684480327025
+"reference","Gemini 1.5","run","v0","alpha",0.0697955391950442
+"reference","Gemini 1.5","run","v0","alpha",0.0983427810520337
+"reference","Gemini 1.5","run","v0","alpha",0.179218821666751
+"reference","Gemini 1.5","run","v0","alpha",-0.0189373006170784
+"reference","Gemini 1.5","run","v0","alpha",0.0762964477709624
+"reference","Gemini 1.5","run","v0","alpha",0.0552101322341888
+"reference","Gemini 1.5","run","v0","alpha",-0.216205119594927
+"reference","Gemini 1.5","run","v0","alpha",0.084769281445592
+"reference","Gemini 1.5","run","v0","alpha",0.0116275478898704
+"reference","Gemini 1.5","run","v0","alpha",0.0605503107663314
+"reference","Gemini 1.5","run","v0","alpha",0.0692123465326174
+"reference","Gemini 1.5","run","v0","alpha",0.0808619501936246
+"reference","Gemini 1.5","run","v0","alpha",0.0361604048274182
+"reference","Gemini 1.5","run","v0","alpha",0.188464848891267
+"reference","Gemini 1.5","run","v0","alpha",0.0427798412215182
+"reference","Gemini 1.5","run","v0","alpha",0.0283221009597759
+"reference","Gemini 1.5","run","v0","alpha",0.204089161127896
+"reference","Gemini 1.5","run","v0","alpha",-0.0292706594592344
+"reference","Gemini 1.5","run","v0","alpha",0.0372092496869828
+"reference","Gemini 1.5","run","v0","alpha",-0.0114284596470504
+"reference","Gemini 1.5","run","v0","alpha",0.00692739038967454
+"reference","Gemini 1.5","run","v0","alpha",0.0655942515761801
+"reference","Gemini 1.5","run","v0","alpha",0.0726890276215692
+"reference","Gemini 1.5","run","v0","alpha",-0.0407250040858503
+"reference","Gemini 1.5","run","v0","alpha",-0.12594445939555
+"reference","Gemini 1.5","run","v0","alpha",-0.0374939011796263
+"reference","Gemini 1.5","run","v0","alpha",-0.14821119119176
+"reference","Gemini 1.5","run","v0","alpha",0.126129288982798
+"reference","Gemini 1.5","run","v0","alpha",-0.142842755918285
+"reference","Gemini 1.5","run","v0","alpha",-0.0572977307413284
+"reference","Gemini 1.5","run","v0","alpha",-0.0871314685377681
+"reference","Gemini 1.5","run","v0","alpha",0.225318491120206
+"reference","Gemini 1.5","run","v0","alpha",-0.0561410474181494
+"reference","Gemini 1.5","run","v0","alpha",-0.0921194161457906
+"reference","Gemini 1.5","run","v0","alpha",0.0482682152201189
+"reference","Gemini 1.5","run","v0","alpha",0.0257672006617888
+"reference","DeepSeek-V3","run","v0","alpha",0.0268904112390662
+"reference","DeepSeek-V3","run","v0","alpha",0.112156139077574
+"reference","DeepSeek-V3","run","v0","alpha",0.133093549491632
+"reference","DeepSeek-V3","run","v0","alpha",0.0231063063877343
+"reference","DeepSeek-V3","run","v0","alpha",-0.0449753496461389
+"reference","DeepSeek-V3","run","v0","alpha",0.0783874491300027
+"reference","DeepSeek-V3","run","v0","alpha",0.119477588986139
+"reference","DeepSeek-V3","run","v0","alpha",-0.0302396509078526
+"reference","DeepSeek-V3","run","v0","alpha",0.0471673676790979
+"reference","DeepSeek-V3","run","v0","alpha",0.0506473384657428
+"reference","DeepSeek-V3","run","v0","alpha",0.054768068670059
+"reference","DeepSeek-V3","run","v0","alpha",-0.0392374743180679
+"reference","DeepSeek-V3","run","v0","alpha",0.0856089601416972
+"reference","DeepSeek-V3","run","v0","alpha",0.0593614103920885
+"reference","DeepSeek-V3","run","v0","alpha",-0.0300960223150793
+"reference","DeepSeek-V3","run","v0","alpha",0.00223529261400101
+"reference","DeepSeek-V3","run","v0","alpha",0.0516364872246982
+"reference","DeepSeek-V3","run","v0","alpha",0.0273708834603382
+"reference","DeepSeek-V3","run","v0","alpha",0.0701621103646094
+"reference","DeepSeek-V3","run","v0","alpha",0.133878383371393
+"reference","DeepSeek-V3","run","v0","alpha",0.150975150947644
+"reference","DeepSeek-V3","run","v0","alpha",-0.0630984128029899
+"reference","DeepSeek-V3","run","v0","alpha",-0.0685746892360135
+"reference","DeepSeek-V3","run","v0","alpha",0.0612579964972769
+"reference","DeepSeek-V3","run","v0","alpha",0.0684348562141511
+"reference","DeepSeek-V3","run","v0","alpha",-0.0539963006893183
+"reference","DeepSeek-V3","run","v0","alpha",0.160527953378599
+"reference","DeepSeek-V3","run","v0","alpha",0.00696603215493115
+"reference","DeepSeek-V3","run","v0","alpha",0.00922975043953961
+"reference","DeepSeek-V3","run","v0","alpha",0.0641342660733064
+"reference","DeepSeek-V3","run","v0","alpha",0.0478743188685013
+"reference","DeepSeek-V3","run","v0","alpha",0.120584183458253
+"reference","DeepSeek-V3","run","v0","alpha",0.138113853002422
+"reference","DeepSeek-V3","run","v0","alpha",0.0984952727217039
+"reference","DeepSeek-V3","run","v0","alpha",-0.00583215987545673
+"reference","DeepSeek-V3","run","v0","alpha",-0.0587896063343028
+"reference","DeepSeek-V3","run","v0","alpha",0.0298438722420128
+"reference","DeepSeek-V3","run","v0","alpha",0.0189112652982846
+"reference","DeepSeek-V3","run","v0","alpha",-0.0252596060129793
+"reference","DeepSeek-V3","run","v0","alpha",-0.0850567613405884
+"reference","DeepSeek-V3","run","v0","alpha",-0.0724508640423383
+"reference","DeepSeek-V3","run","v0","alpha",-0.0269738646136284
+"reference","DeepSeek-V3","run","v0","alpha",0.0505551908478618
+"reference","DeepSeek-V3","run","v0","alpha",0.119013646875519
+"reference","DeepSeek-V3","run","v0","alpha",0.00368113553540686
+"reference","DeepSeek-V3","run","v0","alpha",0.0265777958878447
+"reference","DeepSeek-V3","run","v0","alpha",0.119033227625211
+"reference","DeepSeek-V3","run","v0","alpha",-0.0409425193598539
+"reference","DeepSeek-V3","run","v0","alpha",0.0913786608061709
+"reference","DeepSeek-V3","run","v0","alpha",-0.00764586907476352
+"reference","DeepSeek-V3","run","v0","alpha",0.0499637143836312
+"reference","DeepSeek-V3","run","v0","alpha",0.119978390418617
+"reference","DeepSeek-V3","run","v0","alpha",0.12066771107946
+"reference","DeepSeek-V3","run","v0","alpha",0.0158621929323386
+"reference","DeepSeek-V3","run","v0","alpha",-0.0134540248215209
+"reference","DeepSeek-V3","run","v0","alpha",0.0924968846141726
+"reference","DeepSeek-V3","run","v0","alpha",0.0511439126124488
+"reference","DeepSeek-V3","run","v0","alpha",0.0261560422825583
+"reference","DeepSeek-V3","run","v0","alpha",0.0297976853446506
+"reference","DeepSeek-V3","run","v0","alpha",-0.00423527709220236
+"reference","DeepSeek-V3","run","v0","alpha",-0.0263385067110689
+"reference","DeepSeek-V3","run","v0","alpha",0.137056569478089
+"reference","DeepSeek-V3","run","v0","alpha",-0.0424254664341189
+"reference","DeepSeek-V3","run","v0","alpha",0.0269628720345813
+"reference","DeepSeek-V3","run","v0","alpha",0.125152092406775
+"reference","DeepSeek-V3","run","v0","alpha",0.0734602284647493
+"reference","DeepSeek-V3","run","v0","alpha",0.0362408474297729
+"reference","DeepSeek-V3","run","v0","alpha",0.0564276336549349
+"reference","DeepSeek-V3","run","v0","alpha",0.0489327019702769
+"reference","DeepSeek-V3","run","v0","alpha",0.0506381745537356
+"reference","DeepSeek-V3","run","v0","alpha",0.0181493713360273
+"reference","DeepSeek-V3","run","v0","alpha",-0.0139824060130051
+"reference","DeepSeek-V3","run","v0","alpha",0.0617851087806611
+"reference","DeepSeek-V3","run","v0","alpha",0.125915308465815
+"reference","DeepSeek-V3","run","v0","alpha",0.0406110465576056
+"reference","DeepSeek-V3","run","v0","alpha",0.106435381080657
+"reference","DeepSeek-V3","run","v0","alpha",-0.0829703863247867
+"reference","DeepSeek-V3","run","v0","alpha",0.0567738161976162
+"reference","DeepSeek-V3","run","v0","alpha",0.0546286913517553
+"reference","DeepSeek-V3","run","v0","alpha",0.0966889786923445
+"reference","DeepSeek-V3","run","v0","alpha",-0.0109727309266487
+"reference","DeepSeek-V3","run","v0","alpha",0.00837499271438707
+"reference","DeepSeek-V3","run","v0","alpha",0.0805930531117248
+"reference","DeepSeek-V3","run","v0","alpha",0.0454075791066657
+"reference","DeepSeek-V3","run","v0","alpha",0.0811726065435123
+"reference","DeepSeek-V3","run","v0","alpha",0.0270532163534746
+"reference","DeepSeek-V3","run","v0","alpha",0.121032760468736
+"reference","DeepSeek-V3","run","v0","alpha",0.0812751532031834
+"reference","DeepSeek-V3","run","v0","alpha",0.130667706134093
+"reference","DeepSeek-V3","run","v0","alpha",0.0381607539572111
+"reference","DeepSeek-V3","run","v0","alpha",0.087769356144326
+"reference","DeepSeek-V3","run","v0","alpha",0.00931068249257246
+"reference","DeepSeek-V3","run","v0","alpha",0.12692048754933
+"reference","DeepSeek-V3","run","v0","alpha",0.0848604532280944
+"reference","DeepSeek-V3","run","v0","alpha",0.0522300142979966
+"reference","DeepSeek-V3","run","v0","alpha",-0.0205020814332575
+"reference","DeepSeek-V3","run","v0","alpha",0.0845082392160678
+"reference","DeepSeek-V3","run","v0","alpha",-0.0310143381450687
+"reference","DeepSeek-V3","run","v0","alpha",0.0963333969760385
+"reference","DeepSeek-V3","run","v0","alpha",0.0875857144115339
+"reference","DeepSeek-V3","run","v0","alpha",0.0345900016514365
+"reference","DeepSeek-V3","run","v0","alpha",-0.0155856951729729
+"reference","DeepSeek-V3","run","v0","alpha",-0.00806048529643326
+"reference","DeepSeek-V3","run","v0","alpha",-0.0270757280102602
+"reference","DeepSeek-V3","run","v0","alpha",0.054563640711208
+"reference","DeepSeek-V3","run","v0","alpha",-0.082603915052281
+"reference","DeepSeek-V3","run","v0","alpha",-9.43920668203155e-05
+"reference","DeepSeek-V3","run","v0","alpha",-0.0876465996029259
+"reference","DeepSeek-V3","run","v0","alpha",0.081507859170567
+"reference","DeepSeek-V3","run","v0","alpha",0.0505345519075147
+"reference","DeepSeek-V3","run","v0","alpha",-0.016491242832646
+"reference","DeepSeek-V3","run","v0","alpha",0.0610056711342664
+"reference","DeepSeek-V3","run","v0","alpha",0.0410879589975579
+"reference","DeepSeek-V3","run","v0","alpha",0.0432611840360482
+"reference","DeepSeek-V3","run","v0","alpha",-0.0398350251145601
+"reference","DeepSeek-V3","run","v0","alpha",0.0279757438412988
+"reference","DeepSeek-V3","run","v0","alpha",0.0231228176484082
+"reference","DeepSeek-V3","run","v0","alpha",-0.00837055136224539
+"reference","DeepSeek-V3","run","v0","alpha",0.0514968715765417
+"reference","DeepSeek-V3","run","v0","alpha",-0.0117235708496089
+"reference","DeepSeek-V3","run","v0","alpha",-0.0459475022924596
+"reference","DeepSeek-V3","run","v0","alpha",0.133352320347835
+"reference","DeepSeek-V3","run","v0","alpha",-0.077373061813192
+"reference","DeepSeek-V3","run","v0","alpha",-0.00592220881704836
+"reference","DeepSeek-V3","run","v0","alpha",0.062011974958311
+"reference","DeepSeek-V3","run","v0","alpha",0.0144112960476464
+"reference","DeepSeek-V3","run","v0","alpha",0.0570781778652928
+"reference","DeepSeek-V3","run","v0","alpha",0.0433813684112686
+"reference","DeepSeek-V3","run","v0","alpha",-0.044304842072755
+"reference","DeepSeek-V3","run","v0","alpha",0.147842195109695
+"reference","DeepSeek-V3","run","v0","alpha",0.0413286029941244
+"reference","DeepSeek-V3","run","v0","alpha",0.0145694343254001
+"reference","DeepSeek-V3","run","v0","alpha",-0.000990230090088244
+"reference","DeepSeek-V3","run","v0","alpha",0.0364221359978387
+"reference","DeepSeek-V3","run","v0","alpha",0.115407444371574
+"reference","DeepSeek-V3","run","v0","alpha",0.02352027284259
+"reference","DeepSeek-V3","run","v0","alpha",-0.0403888762497754
+"reference","DeepSeek-V3","run","v0","alpha",-0.00126365129241006
+"reference","DeepSeek-V3","run","v0","alpha",-0.00985924872409855
+"reference","DeepSeek-V3","run","v0","alpha",-0.028914511048289
+"reference","DeepSeek-V3","run","v0","alpha",0.108053153942314
+"reference","DeepSeek-V3","run","v0","alpha",0.0256990584325997
+"reference","DeepSeek-V3","run","v0","alpha",0.115223889759011
+"reference","DeepSeek-V3","run","v0","alpha",-0.0428555597699672
+"reference","DeepSeek-V3","run","v0","alpha",0.0759759230034703
+"reference","DeepSeek-V3","run","v0","alpha",0.0488343249489984
+"reference","DeepSeek-V3","run","v0","alpha",0.134393070010105
+"reference","DeepSeek-V3","run","v0","alpha",0.0851583232660307
+"reference","DeepSeek-V3","run","v0","alpha",-0.00355001120189038
+"reference","DeepSeek-V3","run","v0","alpha",0.093895094355485
+"reference","DeepSeek-V3","run","v0","alpha",0.0750309524984683
+"reference","DeepSeek-V3","run","v0","alpha",0.0676768670534297
+"reference","DeepSeek-V3","run","v0","alpha",0.135882495299865
+"reference","DeepSeek-V3","run","v0","alpha",-0.0523032660348048
+"reference","DeepSeek-V3","run","v0","alpha",0.0699970787175297
+"reference","DeepSeek-V3","run","v0","alpha",-0.0311233570416998
+"reference","DeepSeek-V3","run","v0","alpha",0.146317846075272
+"reference","DeepSeek-V3","run","v0","alpha",0.0575177583917875
+"reference","DeepSeek-V3","run","v0","alpha",0.12548838226172
+"reference","DeepSeek-V3","run","v0","alpha",0.0791968054912466
+"reference","DeepSeek-V3","run","v0","alpha",-0.0528506119511357
+"reference","DeepSeek-V3","run","v0","alpha",0.106249539286225
+"reference","DeepSeek-V3","run","v0","alpha",0.0792770234802309
+"reference","DeepSeek-V3","run","v0","alpha",-0.00921532727104664
+"reference","DeepSeek-V3","run","v0","alpha",0.0234675861190818
+"reference","DeepSeek-V3","run","v0","alpha",0.00704196332740342
+"reference","DeepSeek-V3","run","v0","alpha",0.00569101233505689
+"reference","DeepSeek-V3","run","v0","alpha",0.0726064737642038
+"reference","DeepSeek-V3","run","v0","alpha",0.143953535409881
+"reference","DeepSeek-V3","run","v0","alpha",-0.0595951286550402
+"reference","DeepSeek-V3","run","v0","alpha",-0.0273449539392988
+"reference","DeepSeek-V3","run","v0","alpha",-0.0749297426773675
+"reference","DeepSeek-V3","run","v0","alpha",-0.0217274779736379
+"reference","DeepSeek-V3","run","v0","alpha",0.0451830093788328
+"reference","DeepSeek-V3","run","v0","alpha",0.0117968097448161
+"reference","DeepSeek-V3","run","v0","alpha",0.034083114333962
+"reference","DeepSeek-V3","run","v0","alpha",0.0293875667866588
+"reference","DeepSeek-V3","run","v0","alpha",0.0665761756224308
+"reference","DeepSeek-V3","run","v0","alpha",0.0796430736447499
+"reference","DeepSeek-V3","run","v0","alpha",0.121762263071901
+"reference","DeepSeek-V3","run","v0","alpha",-0.0210354683317511
+"reference","DeepSeek-V3","run","v0","alpha",0.021694336144034
+"reference","DeepSeek-V3","run","v0","alpha",-0.0577911437100145
+"reference","DeepSeek-V3","run","v0","alpha",0.168495465455382
+"reference","DeepSeek-V3","run","v0","alpha",0.0397537155632557
+"reference","DeepSeek-V3","run","v0","alpha",0.144855486377083
+"reference","DeepSeek-V3","run","v0","alpha",0.0756702261834122
+"reference","DeepSeek-V3","run","v0","alpha",0.0884442622944652
+"reference","DeepSeek-V3","run","v0","alpha",0.0841495011082858
+"reference","DeepSeek-V3","run","v0","alpha",-0.0204453590157865
+"reference","DeepSeek-V3","run","v0","alpha",-0.0322979991808058
+"reference","DeepSeek-V3","run","v0","alpha",0.0463630252105854
+"reference","DeepSeek-V3","run","v0","alpha",0.12258881100622
+"reference","DeepSeek-V3","run","v0","alpha",0.0514424809638847
+"reference","DeepSeek-V3","run","v0","alpha",0.0407777240615441
+"reference","DeepSeek-V3","run","v0","alpha",-0.0120369158432396
+"reference","DeepSeek-V3","run","v0","alpha",0.0216095113634306
+"reference","DeepSeek-V3","run","v0","alpha",0.0259636615320658
+"reference","DeepSeek-V3","run","v0","alpha",0.0809859718486446
+"reference","DeepSeek-V3","run","v0","alpha",0.0568377460912494
+"low_alpha_high_beta","GPT-3.5 Turbo","group","median_alpha","beta",-0.819730318096885
+"low_alpha_high_beta","GPT-3.5 Turbo","group","median_v0","b",-0.154282925630366
+"low_alpha_high_beta","GPT-3.5 Turbo","group","median_v0","median_alpha",-0.335011749106842
+"low_alpha_high_beta","GPT-4 Turbo","group","median_alpha","beta",-0.70024469587618
+"low_alpha_high_beta","GPT-4 Turbo","group","median_v0","b",-0.713076703929543
+"low_alpha_high_beta","GPT-4 Turbo","group","median_v0","median_alpha",0.0224558131330875
+"low_alpha_high_beta","Gemini 1.5","group","median_alpha","beta",-0.7465558512417
+"low_alpha_high_beta","Gemini 1.5","group","median_v0","b",-0.517419472674425
+"low_alpha_high_beta","Gemini 1.5","group","median_v0","median_alpha",0.134170387457235
+"low_alpha_high_beta","DeepSeek-V3","group","median_alpha","beta",-0.81881822381228
+"low_alpha_high_beta","DeepSeek-V3","group","median_v0","b",-0.399645309780322
+"low_alpha_high_beta","DeepSeek-V3","group","median_v0","median_alpha",0.386741778170401
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0966080480282165
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0800408493973346
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.223060999934899
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.04844980760256
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.107425427283942
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.141901551310935
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.151365130910579
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.209820152956062
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.125299821893042
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0304480166076307
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.165728236513621
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.247532147072424
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.037104047380371
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.219071892207133
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.207195027246238
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.248611595979285
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0030087487064421
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0784995022168594
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.202164627209083
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0617490106791299
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.075062589315002
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0463547478279694
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.265425524868473
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.237177158782526
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.200131164542571
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.275523974463816
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.213283424954966
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0247863498240075
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.139984806064386
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.266343256617348
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.105405248398121
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0746816551005689
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0133493244470409
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.065824713000681
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.217556510113024
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0706816734225146
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.203390310104994
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.186584715519583
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.122366020567415
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.233957314967798
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.274169917614275
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0552990322076201
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0905330290069957
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.11623332966506
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0216898099835098
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0877071252812658
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.100430015160818
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.253423922337525
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.134698507893742
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.15770818650908
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.170732647871744
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0386489956944442
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.20196045640321
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.135647824747312
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.023505714038398
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.051383574717067
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.1812611563092
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.269746522023793
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.230255627829897
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0996174432094952
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.169362423491772
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.244890844810742
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00313285160265363
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0694224184075776
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.201611693856242
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.118551145490582
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.150581136855158
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0164107913411327
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.315506168294574
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0013084069277891
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0659115876505867
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.211126592411495
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0898077748721163
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.235242051187261
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.045475264183774
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0503597084130919
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0437573345083389
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0917701117493254
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.107342968120327
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.145727146866995
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0338644825662678
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0424148268792274
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0768409925290825
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.11197628553754
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.392385702017054
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0044562264092684
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.169778950597802
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.348081521482751
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.00937307699430273
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.217675748792714
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0854798483665935
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.108679159005012
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.149623653746322
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.253088543510124
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.10780904647625
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0796410372648224
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.114723389761258
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.258447852504503
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.190002434818232
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.136286220099752
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0680219163739062
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.165473035448605
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.184224843003475
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.216520245491877
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.250216149454426
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.155664124370142
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.232768585041629
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0167563880169211
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.22938043243301
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0549063892889965
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.125408882446018
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.182355153072906
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0904868544830449
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00584734306673922
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0523033940352233
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.293696124300151
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.18366958366325
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.111030039268911
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.00754898470406261
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0735366862983077
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.221432433365449
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0895435896119146
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.126383840778059
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0298247434369045
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.200292687474356
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.193320674830427
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.11026839889082
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0478726266758284
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.11559799374482
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.248232411162009
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.160336038940442
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0100247798557894
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.045936417977935
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.290520491255285
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.225708917216624
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0650845153752261
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0459044974391845
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.231877814218732
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0517666135873698
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.16302955914392
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0438912884403532
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0910424589662066
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.171696685668462
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0609074879710981
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.18674392986191
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0478992761276715
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.181430248381687
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0289893670771648
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.263602793257042
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.272655463633358
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0641042497674929
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.135491706788731
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.146200627170501
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.010632463879159
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0455832154756035
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.223562251691796
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.269476685832463
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.214525684791914
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.116609117480603
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0314755358534675
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.156191430613412
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0895541449124647
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.102751855817378
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.285744038114649
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.192951078265877
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.117512432738408
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.148853891338467
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0196375395042023
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0134754473936888
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.219643897417462
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.223171451018792
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.174843971184398
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.143697393710864
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.332555443322226
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.00604967256572553
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.03570912654522
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.129324280979194
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.050201637232943
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0244638503368002
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.316271225109528
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.243996191623579
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.132342429143877
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.286285243456323
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.110772031360293
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.208475494747473
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.306610967111773
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0928245272865721
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0334711940276891
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.119277379227177
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.208908063536328
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0170716040668398
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00626967775249108
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.183358902204085
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.159825279227098
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.237291540988561
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.127881823776296
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0776661881653782
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0889617132659692
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.241847086940511
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.141908410613129
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.128933766982157
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.058015418383635
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0155664993197331
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.20312785947942
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.140622377889981
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.179043477175296
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0138339668194465
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.288226414123938
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0807896395073338
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.101761746141424
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.106987207959802
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0330576129830457
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.19651921079957
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.088604300887033
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0891935235423936
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0416218276805948
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.281493482991593
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0335801914376321
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.320270233823504
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.21318071247541
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.190653336192641
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.1877653523555
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.10534246360501
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.10793083451094
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0756876721254378
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.101895042644138
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.21506906544568
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0690861284726163
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0313562251352004
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.215020576031643
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0130374778345934
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.242062139694141
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.102742644237849
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-9.01610626670626e-05
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.119745751507183
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.176492980509602
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.134978854674334
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0443864308025834
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.107010028617516
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00128303152772853
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.0485255107035315
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.10825274472076
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0213171828619396
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.143479693796649
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.220619343084819
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.091767683634948
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.157175761486231
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.165546907734722
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0332681625737815
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.216462021481595
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.229011029357888
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",0.16052058726235
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.156761097956348
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.095202695964313
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0216722427868823
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0609512725153888
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.164312721680004
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.225956759144904
+"low_alpha_high_beta","GPT-3.5 Turbo","run","v0","alpha",-0.120251228015755
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.146799209857095
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0264273226228843
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0904753660457726
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0395506301387802
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.211897747017854
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.000180241828558502
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.194760102521502
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0496967692389646
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.169684876256978
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0590370893694329
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.147581067763811
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0486372278167188
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0538823595489299
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.136451324084862
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0308451343862021
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.257426888237016
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.346908297736403
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.122148574787958
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0115283329237282
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0463680617152765
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.315551342547859
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.12650424413393
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0609496895758692
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.030168036406482
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0633238575683583
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.112122297356007
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.169131973661306
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.177077664352451
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.206400635660041
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.094880605167318
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0480442876129053
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.00443041760329396
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0698099721793741
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.044110138572346
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.149735335995889
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.167981666225693
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.342633551093112
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.273967063067995
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.195829372292691
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0332398538160788
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0618803400694028
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.255139551238418
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.136496769625318
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.180625026515884
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.079321293480604
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.131452112782041
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.00265883214133086
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.340815044956305
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0437671262758167
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.130129148273984
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.125092106404839
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.222005382671604
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.13798827320916
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0852668036903816
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.302296994990357
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.180390026967564
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.256117565529206
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.136042173630872
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0562663463374766
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0852815666181649
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.305472667828323
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.159132270283645
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0197368783911567
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.380974799357107
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0499667316664249
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.123578643335911
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0172433861000895
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.231474372451476
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.00818125829269879
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0815129141211542
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.141301095716531
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0396925308037411
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.140025808903052
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.168642837011196
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0389364348876032
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.125405989796659
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.13536191658847
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0553772534193641
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0286884384076037
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.156119858965817
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.118954718719217
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.121181957450173
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0171054776133206
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.080361383112857
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.165814164786052
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.36785640169068
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0749771414458247
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.156390719754039
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.000175426829154034
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.14986698099186
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.115761669717118
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0662948909015078
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0450340079171404
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.141273528806381
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.251801375315104
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.464188859052422
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.155793052552916
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.137515289226443
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.132044444791376
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0948671274439088
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0911214110896998
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0539443334142947
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0868122072837043
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.324862614466486
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.122807890358651
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.474143002965616
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.132776477188826
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.204448724078831
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0355332693357491
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.409325296695893
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.427789934789591
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.22429514312911
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0328950994608242
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0127716402099498
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.308795221380393
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.00970284964319268
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.275788086345857
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0921452286426281
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0655686430658431
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0871141854049644
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-6.0296276122805e-06
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0287434045648948
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.271687081557498
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0187877818877826
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.26123269026156
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0285458340836304
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.31078410586056
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.158447196821709
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.153432219520153
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0684329058202492
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0145374927586387
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.105630637740487
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0129105124472391
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.119147735961881
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0336806344421348
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.220286137748212
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.323033418031405
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.17507923476625
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.200554776171764
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.350495071906227
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0531358043919906
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0650285054486077
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.113377252372519
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.235492151292067
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.18868682616725
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.256253468786503
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.00541217625650205
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.324442625760088
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.00567140952698117
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.427780730471502
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.319486702852822
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0233081661832788
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.164412190981539
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0997500007744922
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0907153091172152
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.401784602015842
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.141376440684917
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.334221587159481
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.203259779792058
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.310667780920556
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0191934590743038
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.177615407244376
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.108722026953652
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.263390195120021
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.182658100079437
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.234388891154533
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.215015426881679
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.23432222263385
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.400943128792075
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0980457546567683
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.206578830863794
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0891130907710109
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.181321179997612
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.315384220474944
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.192523827449179
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.157130789800917
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0681216072602523
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.101669812065662
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0122792641399922
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.121003995397697
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0618153638502553
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0618115312033359
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.216875517915912
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.119299125365892
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.338080104075117
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.252267748468965
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0339829834814952
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0340304904461366
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.1516719412291
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0275254397408392
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0132208753416189
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.15506455069936
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.106570541357927
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.136158545844448
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.359688937185925
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0326973611574989
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.0440961259117619
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.217487482436724
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",-0.297485628734173
+"low_alpha_high_beta","GPT-4 Turbo","run","v0","alpha",0.0167970288410948
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.203116964776785
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.242990876978954
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0800512856144725
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0627409487118546
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0893435039472442
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0481913395813985
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.13213168054684
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.263680139471741
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.139508832339148
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0693819878703177
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.198255164698033
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0364512453911117
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.103780370422042
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0682737214837213
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.156556509043798
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0154957065548393
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.112786601348144
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0653645510953338
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.14364555407202
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0289463396098509
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.161527285772484
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.173100637086142
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.127993868742115
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0338868733525091
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0584742346690119
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0236366977654065
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0620768537967599
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0264501892554417
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0526548348376145
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0418381545025137
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0118446196138002
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0885671719193221
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.15167947295027
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0989502605689501
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0915018848622173
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.180677423675469
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0750450962961372
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.112597192245678
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.000773920366269949
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0934509201497538
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0495405246150067
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0612186707402398
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.175096149696951
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0421979460231546
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0524264971950237
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.160001599252245
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0470066953426726
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.113261282543828
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.282605314428893
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0908981740290604
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0762127067915286
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.139812386719807
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.086873348274545
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0634960873910968
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.196829260475791
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0150132750174288
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0400135291069506
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.107445155959927
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0800964036933283
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0371235428266079
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.142537945317683
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.14252481325317
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.173006412381087
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.146380547149403
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0456912157880894
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0777533766165751
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.172853854189641
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.015521224949281
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.202250224929726
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0545756989365015
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0471135940476557
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0133405778199365
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.276937490477295
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0676789106444728
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.045007062131786
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.00714723130341732
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.19152602011083
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.140581742583132
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.312489098781782
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0832884681072184
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0346414726788898
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.162518986438739
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.211654526197802
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0340902668612809
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0163753159710451
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0114361217033389
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.060721014873115
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.245848730981607
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.232301912456255
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.133895035869664
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0514387165018898
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.244779988937718
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0230017657899096
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.12109729999241
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0746097181161849
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0597227677128278
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0329844718698742
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.248326736609882
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0329920705871161
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.00749690876979824
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0775053386044454
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.014359083277559
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.135231182079568
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.214422334269553
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.000559729684510258
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.128042885283712
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0543903618889543
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.142648540576286
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.146556438400447
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0137910516134165
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.178098005829099
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0673760747871237
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.118690059884929
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.150066933869398
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0699681779123409
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.130767753801975
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0730615773802402
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0264664999847144
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0978620090747038
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0600863099447244
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.118724711399727
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.118666435906415
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.00941136144442167
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0926233827488305
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.253079247654525
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0626450951026334
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0719351233186493
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0327605035591766
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0787555028653974
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.099319716097827
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0143003573375035
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0925942104104802
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.068401334724123
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.196921926338568
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.19978881209017
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0933066494589389
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.160162507324207
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.053414354803409
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.117498550301771
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.198046794605228
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.104813516140106
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0640877468190191
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.100285917067086
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.00495816363365678
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.238529841418271
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.289021909359866
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0404002164155774
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.064600996603294
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0984388148616148
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0689056617304372
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.10881250505738
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.090226142754781
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.163100902270126
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0963016797749713
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.254505283153171
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.250025949556006
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.116406037983407
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0042893447421316
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.180847455946246
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.110537892812585
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0494457741768129
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0294440727762518
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.063007171566908
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0135177672272478
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0567883094180269
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.142628761571772
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.106363193303417
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.141870889538407
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.21198291585102
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.198510026221004
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0590436299031868
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0994546613885056
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0538635235351251
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0134661566876399
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.00458610265904306
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0171728347769482
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0881818353163768
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.236855433566102
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.121307219017072
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0842324919615457
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0637157381218087
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.00655671444747458
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.163067536414102
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0450262148186035
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.199403727880042
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0410904168201015
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0223292045875957
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.201580555367106
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0565517665840349
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.19062288010389
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.17345667360746
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0367160597459863
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.164176025356242
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0650015065488472
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.117110643438607
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.178817209124692
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0976153528291786
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0653141708050067
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",0.0486637780139928
+"low_alpha_high_beta","Gemini 1.5","run","v0","alpha",-0.0121517092802696
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0972677908881262
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.140802913511124
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.101674850268761
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0857154377898821
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.123912846113363
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.185427348910613
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.129656932201302
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.147825343045459
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.141958811234126
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0775523716807981
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.072454756925315
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0501456905707275
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0565005712552596
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.147608553190717
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0900477537506567
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.054941699542378
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.220308904551161
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0252439395146791
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0855549932704667
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.163253574277505
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.141983352100467
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0975486654630342
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0792762821692864
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0240991792916198
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.115417293175064
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.133765646715601
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.107078970738948
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.124213250995086
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",-0.000368570686493641
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.163541828709733
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0302510485004022
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0137765620758063
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0940175639886661
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.108015370670347
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.133116457064261
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0508617496331172
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.055936356830459
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0809058174977198
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.141102449279684
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0634622172025449
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.145747190585546
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.074875004305603
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.159862771966301
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0154452752522836
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.147597587800479
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.187255748018312
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.08102125829595
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.153631451340938
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.192725483044169
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0168752657878527
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0598678065680143
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.195803880361692
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0112939812917797
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",-0.0131773137825877
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",-0.0149100074937335
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",-0.0293591904593383
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.212754997579663
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0329432624300152
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.139723853886557
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0472780422709458
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.181149690816106
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.102421266723687
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.156521733858691
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.152662229899485
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.196930070592518
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.16080854214893
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0980692412568901
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.199055241681532
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.158165029271278
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.169301438266526
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.108784119285624
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0879206439286477
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.128921196644071
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0580772670519402
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",-0.0569140209329626
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.179668252191651
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0499808518049981
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.100951596340743
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0829004830458682
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.147881416203701
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.123138381879608
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.154420835374142
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.174746862455881
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0302798606091904
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.037192402775785
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.139041832922644
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.231913489547042
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0675319044519278
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.00899669579223648
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.151346686714241
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0827882654460415
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0796386833197319
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0908236611139083
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0821589371244291
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.232336984865249
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.15293517131285
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.161400657736931
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.209597954391526
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",-0.00484684661782899
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.132661426017514
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.203567005482035
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.163159323436119
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.128947726139433
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0457154055591651
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.158069869072374
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0844469050683976
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0840471370030346
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0201417157081828
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0886978939102917
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0885134109900153
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.109991320681894
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.132375551756416
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.148355488230951
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.104880999673145
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0460161170131377
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0570231250777213
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.211274864536786
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.256254055673302
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0797258588632307
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.204211058439545
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.150252980818666
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0225753641971729
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.00587790107619117
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.122980966442009
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.051787082690967
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.155366831506055
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.153371770066329
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.138765600747032
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.178078081347996
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.128675854619837
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.109679312694673
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0699748450244813
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.209737019218223
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.192542242906956
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.140253036168292
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",-0.010189073551545
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0764509751181795
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.144217473670171
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.11848316589511
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.130564445539984
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.164690883498121
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0995643088403904
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0873447397341548
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.171510856314581
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",-0.0335776247467915
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0324620760129536
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.194913448757065
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0911643519614157
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0529558965467625
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0813683417870026
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0942011353774437
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.027839307013587
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.127312892395368
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0951350489534966
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.02575765657432
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0871907684468692
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0910620701273584
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0600340669786581
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0949636911326666
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.145243207069912
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.147088917890663
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0534711192581968
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.144977593899852
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",-0.017721927492523
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0289498735262943
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.150606748530435
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.169524116538287
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.118938791557654
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.206755526382525
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.049033739163657
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.161343045085779
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.033923110214485
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0175120835516833
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0660874279708954
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0680408478481339
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.052139534505955
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.113993462802152
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.103225707978639
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.18579392060238
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.159319189099197
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.110698551848817
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0780525533865996
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.164260340082223
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.198590993771789
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0365230444623312
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0625046988537533
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0898540119061656
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.00464284172771331
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0936653430271707
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.155776302580652
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.165138871245035
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.117758321032627
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.180474486418386
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0546211470585783
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.160733737844002
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.139948010507739
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",-0.0734254240217516
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.112338024550604
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.114999628933971
+"low_alpha_high_beta","DeepSeek-V3","run","v0","alpha",0.0674510340220577
+"high_alpha_low_beta","GPT-3.5 Turbo","group","median_alpha","beta",-0.769417319696685
+"high_alpha_low_beta","GPT-3.5 Turbo","group","median_v0","b",-0.263074412295913
+"high_alpha_low_beta","GPT-3.5 Turbo","group","median_v0","median_alpha",-0.25431541890358
+"high_alpha_low_beta","GPT-4 Turbo","group","median_alpha","beta",-0.783018059657081
+"high_alpha_low_beta","GPT-4 Turbo","group","median_v0","b",-0.618604562967216
+"high_alpha_low_beta","GPT-4 Turbo","group","median_v0","median_alpha",0.13435450234667
+"high_alpha_low_beta","Gemini 1.5","group","median_alpha","beta",-0.69793549601884
+"high_alpha_low_beta","Gemini 1.5","group","median_v0","b",-0.527879883576802
+"high_alpha_low_beta","Gemini 1.5","group","median_v0","median_alpha",0.231748873288851
+"high_alpha_low_beta","DeepSeek-V3","group","median_alpha","beta",-0.656468028603367
+"high_alpha_low_beta","DeepSeek-V3","group","median_v0","b",-0.407295939311775
+"high_alpha_low_beta","DeepSeek-V3","group","median_v0","median_alpha",0.221973441854763
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0707536552699359
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0469219245003897
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.133697074571103
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.148264610252405
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.21943703979567
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.103247707664107
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0586465747644666
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0725947846480937
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0524200310003751
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.000452130242799312
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0796404601361171
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00134811996462568
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0289533670237281
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0262587080104896
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.118635132302745
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0531431279352618
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0254537313618262
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0282360258721025
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.038292346236218
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0607158166912259
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.100513319893392
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0354081381223856
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0183326958669762
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0760212394771043
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.100435099765129
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0598348874001131
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00900719523024899
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0126773218219749
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.129566541367701
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0595095471395264
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.102851350789074
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00363300959273315
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0387610043551016
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0405290626911022
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0114807293504951
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0493769016794647
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0901137195519673
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0835897865922859
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0525903490251623
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0461116055808866
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0449037194565993
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.041602254120029
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0594569150084701
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.178736784188502
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0545107174352954
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.144170367169587
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0485261100171233
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0129098890421404
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0614604930612483
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0890954570796048
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.058496768728323
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0397358308376531
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0118150293763187
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.1316088268408
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0716738072713069
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0786193768946628
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0402941327832318
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0285403981653865
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0481801271616951
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.068185378600464
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00975987785374041
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.104305716234362
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.042249212308417
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0400359518340179
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0753499052315644
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.115390816889197
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0339374040603441
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0486777619076943
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0527309884460459
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.123382992345731
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0206551083677763
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0443140283342626
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.185285909002907
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.00193753917903525
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.082868409603961
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0770244965193611
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0911340926035565
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0884215967200846
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0387929697524126
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.147432604265986
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.113292236931955
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0307587625808798
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.16174475581759
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0449712197298351
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0237552089734708
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0462560273639536
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.000854854698517104
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0900816543008683
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0958491708147908
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.019429756106172
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.111710145907312
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0286887501806598
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0893757616158553
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.10477505352501
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0802718006094411
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0173908308574765
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0451445883213887
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.109065136890581
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0515412687553771
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.011594179364807
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.052226093456303
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.164247871709038
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.049251833708991
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0982707945073615
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0279565493203913
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0214840482742459
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0677624028424379
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.054606403274779
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0447352776365173
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.157925257160857
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.105070771037766
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.128980130882396
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0327499553753735
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0170142710795431
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00162395707181763
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.134924463755355
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0106020788194694
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0206896655294118
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.132631249750706
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.129278397285912
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.081506315187965
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.129123782830701
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.103382201530155
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.101886019590434
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.106495567886714
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0404222715103753
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0966582194424583
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0754242479336589
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0637506146227903
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.114569379567697
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0680132851686704
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0327126600316408
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0263366137312682
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.02748118846209
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00194034350784241
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0930369861225564
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.061080128425535
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0258604467904569
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.127998001403547
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0439130463243587
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0372295345957222
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0856751534949628
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.147273234425469
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0702570891051183
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0245645441442184
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0968202291843493
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0273507121984906
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0493551956506264
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00885588550879022
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.064509141615578
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0661710356731051
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0502390590052846
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0736005060939984
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0552028205308252
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0258172073854877
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.135206662809659
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00514175733511236
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0456475275168352
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0398184425932085
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0835782850058821
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0398684097936587
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.106162833219464
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0598319013130077
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.127515225514323
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.13504921247026
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.086491237188075
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.155939231691196
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0316784304208513
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0682595305878548
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0814708538504039
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0748034507814746
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0342715082667824
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0417311702447806
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0243517841468717
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.113359889423234
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0761197128023445
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0110487457277144
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.109485078585233
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.117108405423925
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.103947419095911
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.20923006543696
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.033972069307135
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0985522810797527
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0372953616368269
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0708301109666607
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.186087105731718
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0734186286786907
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.120353767128377
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0197007091470535
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0537836140928854
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.052129343779897
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0317481017536496
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.14667184551286
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0652876590472145
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0820427203556776
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.103550324426464
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0774817883927052
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.126316959530382
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0560009928848806
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.103738221021529
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.080500976528363
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.136670107707072
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0572525682129878
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.082777308812817
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0977395587729672
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.00122185448254395
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0835820064236935
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0420111169555054
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00254469999558356
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0621154616841554
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0108441973659021
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0902127352655434
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.146392648695005
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0216977750895767
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0984330595312571
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0120279406269524
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.00858554389618959
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0971118831035867
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.115867572903428
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.125167196769848
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.110478494314012
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0527009127701673
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0197513651995292
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.105078134787088
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.104409366456295
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0190189348996415
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0993725478414668
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.200718788956655
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0575993397017933
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0163825620168972
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.209532631936779
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.110403252945437
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0516871758086079
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0117661232078211
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0455333933566179
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0898785228057598
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0244554688628022
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0712293597186286
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.130928867702315
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0487439344004535
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.00713174851251117
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.116630643211459
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0725550649899145
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0736787661987792
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0982842263178269
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0805066323517831
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0611501403748117
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0488547774194992
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0321203421427086
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",0.0070375110935026
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0354218497192391
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0520139533684934
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.134264739402817
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0403331524299188
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.103625839929211
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0102123005235025
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0515837033385943
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0388450342945751
+"high_alpha_low_beta","GPT-3.5 Turbo","run","v0","alpha",-0.0429028631816845
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0733110278193275
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.101495592545641
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0112079003133826
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0954118100927307
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0282265567795029
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0730032934919632
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.00307594059197141
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0347394689909695
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.103997442961936
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0424067217684693
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.10682554281248
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.100049092447421
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0537809188036567
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0307749139636593
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.117276222513256
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0037121040497825
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.021645587651432
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0689989193015562
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.174155834577852
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0748842669048065
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0802888282379633
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0472546646367922
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0722037869697798
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.00670946197752588
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.018977625541485
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0496152699289657
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.00624651791029885
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0745870296752406
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0883505818354307
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.078195972186964
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0223921239075824
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0367166954022853
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0264923807688737
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0606341650483083
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.047440617246918
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0010807695809492
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0532596263123375
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0030397333082111
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00421549611815878
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0449110385295324
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0695311596661455
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0344788776253425
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0501473856753274
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0447761805673476
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0975222066998591
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0223859841605557
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0241449672049519
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0335403560838174
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0418739105579447
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.144965979963635
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.124975515781507
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0348340400023323
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.158425834115991
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0029279045068142
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0116972107368821
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0173847172355491
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0765036629207986
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0190547051597868
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0171527010712115
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.100284127055952
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0480069374668963
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.039426847457237
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00343509091394756
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.135130884630799
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.00526516243144187
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0376501761264362
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.018936094261174
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.065883976836615
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0524084260302813
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0124422640239219
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0245621576854032
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0115232751382782
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0951850996033872
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.05723108637326
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0621634753383935
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.035058427409095
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0689928413668896
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.152392511825064
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.129535039455563
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.00708859748548848
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.078388135549324
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00625967314992827
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0922203191956947
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0137886883344894
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0110810734828892
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.042465439877726
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0141560753074771
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0978394609312376
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0115526151072114
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.00239935759262327
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0229865282763625
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0669543643370206
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0744167388181215
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0238273504809679
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.07494761786063
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0364477525619932
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00560811623801772
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0263328769173219
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0114336668401814
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0310298047613407
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.077779668254202
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00292431786500154
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0986982755294606
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0292953100608548
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0794882826303054
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0166506624192599
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0582118915403605
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00982239838070001
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0339497364723566
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0760578671894334
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0643616627563567
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.134814563233595
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0568175774838117
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0414113450332319
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.11367789139532
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.046765885689889
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0211628359047237
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0833590725954241
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0593916285979895
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0262422765995149
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0150459800632917
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00507420419487337
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.170692323807844
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0482368668749668
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0101766659225115
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0114146623448995
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.105055969489214
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00167042932835086
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.105425878268376
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0798523193891563
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0273954943800495
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.130354502969233
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0401003864138434
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0295624301435786
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0215708656016979
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0755888066544909
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0459038237195967
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0634426149181162
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.056350521986102
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.010224365450768
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0075001574929263
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00838484501887227
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0496325035458144
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.124565917401721
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0902222840907558
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00186519611941727
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0686932578016868
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0477847559626417
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0139351591585913
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0497468207737835
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.118376213259834
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0175229623550135
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0511193876739523
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.113959940548636
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0886591001188562
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.174142244713931
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0842582697599832
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0106062971706371
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0965911769232538
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0479595985262761
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0428606465289987
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0466938413217145
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0727120101727527
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.106097066982107
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00272955441171856
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0308524152302561
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0553658926913975
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0303964402873883
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.00586209972319699
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0389723858409255
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.00371316835025117
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0396842997889586
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0054993426832504
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0230964382280977
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0856629422989201
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0921263636168574
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0171908522750466
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.123902934854678
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.198526691852624
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.112074501688558
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0453617403160808
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.146532803625105
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.062260120649519
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0525727071096299
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0850246493370579
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0813649530222823
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0773994538960032
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0490992118907107
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.134032081023416
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0625129975167408
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.127126126731326
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0170811053338308
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0199868601170507
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0185878765143987
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0644905040073572
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.0721025387489832
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0080708009323256
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0591830404976663
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",0.00620345472941573
+"high_alpha_low_beta","GPT-4 Turbo","run","v0","alpha",-0.0356322877427706
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.126249258229868
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0444232243984828
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.024141709097245
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0146593670932554
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.115977286010427
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.114284054241198
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0235334543249107
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.115560642096544
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.102765083533548
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.130103419078184
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0633500502251671
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0136830015697351
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0431448202582568
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.111080818650154
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0598625093357771
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.134551345088944
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0195649851373216
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0073430164241344
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.107476263847786
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0475857452997516
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0482700943006802
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0624661157858239
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0551678082658459
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0329775225827508
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0524558229482214
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0715333953689988
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0888570290423469
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0741661699363293
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0177276693347752
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0625025157048435
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.063764083593104
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.115927978906902
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0191204072565607
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0619523624543872
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.105590298798565
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.149312838380334
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0975677488129724
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0585787242554319
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0546610403652829
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0983183613789136
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.203036490664065
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.196225997996226
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.075894105976039
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0949390740467109
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0341892336491798
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0567231833658862
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.090825492545888
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.138874855166601
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0628516090807786
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0369332627407485
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0935777710589826
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0115664145615029
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0857172482085332
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.164758462246301
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0850609493963076
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0649205795366627
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0517130556427317
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.131911987286877
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0783452759966471
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0684970929082074
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0969538948320495
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.165687183492358
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.149541413205925
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0697623418547158
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0127632215699878
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0301021343134884
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0199384740096182
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0413590459314785
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0991757032193985
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.150831860523076
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0697908816687832
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0441584346619818
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0881448471817893
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.095194252451847
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0653885049694929
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0886439738443752
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.00437407251127771
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0253317155566395
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0930720564151858
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.085121843923239
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.00246251828914402
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0965672868673995
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0663635307251628
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.050598164915938
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0941460784386978
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0717619546861822
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.076783084877108
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0617239629424749
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0669662070068896
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.194796899807389
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0752731540819485
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.123480487726531
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.20304229340425
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0345711824619551
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0720584908957976
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0616842246261352
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0401486720212949
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0242010646616506
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.125097501069418
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0225293514438865
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0263081277156981
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0756822585201164
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0964862795294192
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.077601022063135
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.185746119883132
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0133526322471521
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.208852649594474
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0823106832652869
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.031886956156976
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.124273549950064
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.143606081245537
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.144091313165752
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0479318004840584
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.183282169959085
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0292910988040886
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0290748940721966
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0700332621325741
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.071407547989858
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.064371840617111
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0134959089243982
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.058765089235072
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.00970996787382794
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.098895216026583
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0303674114822381
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.132463191332027
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0437265588732614
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0713052510164682
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.102779140914937
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.112105000077393
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.088098834554149
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0989730217575102
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0554283216176319
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.00559101683626903
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0994800941496916
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0913924588602694
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.100610471153427
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.00252089196492809
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0617407188908774
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.068645657468053
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0213539520637494
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0830199523323466
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0844106093864852
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0798337156534593
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0322459939461624
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0575108378608292
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.104654222368087
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.145121347445579
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0148824826628733
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0733767058579228
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0904981597353
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.15783381259337
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0245905351653789
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.126028800013812
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0344002985510031
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0868880003752371
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.081006627295828
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.027724013853889
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0151043761858889
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0504804099426752
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.125492780910636
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.00630315129892205
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0142974865976607
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.00268301690803332
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0596481807902874
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0592578201281707
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0336194513560251
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0417055957587589
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.090784628441225
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0535165441124364
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0836095383846725
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.10905737963562
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0711420946650433
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0335168322995495
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.016735330082549
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0484464564181502
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0173392700058194
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0519047783128834
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.164306366378365
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.122076520826521
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.121107744156191
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.051076174667474
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0631447336871605
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.138640936747267
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0228932810740641
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0901314166386585
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0465403858473443
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0139467114541874
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0794082512367887
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.028682923280538
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0784689820033953
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.030666275100093
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.13576011112905
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0115107602513912
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0563582495740587
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0920363583808194
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0699331884378391
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",-0.0391401167018474
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0920297216260606
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0861713843406099
+"high_alpha_low_beta","Gemini 1.5","run","v0","alpha",0.0731188933919476
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0414074933960815
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00484736681943308
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.117071027262844
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0878983678098369
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0963333740626357
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0929337614340506
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0177601544393215
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.102975334385746
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0100629945291063
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.153229348289089
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.033934868685722
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.031064076661719
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.020361296462314
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0196507941168638
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0338100316100502
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.132917194018501
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0505888475000641
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.00792482877659072
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0515786181229805
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0213192902710606
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0448549449080171
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.030432765570592
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0474002677137377
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0153578156587609
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.096368307485227
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.110310170776834
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0684579860903342
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0154632547204127
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0260755794112144
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00344948167927428
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.156046437597524
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.031985923945766
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.099121925877352
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.00775279019801113
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0164116735464563
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0298925474981072
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.036789809937759
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.00512165819676881
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.157656826801228
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.00253023846965718
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0174174193416405
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0179945911831579
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0518186864596267
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0413350556940843
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0753487758055345
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0725574328706174
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0331067963081961
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.10578031019462
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0737544969806346
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.04499244142315
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0485496579139339
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0482919517819923
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0331203219403042
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0879046528867479
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0142084953747115
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0896062079108692
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.048572266330358
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0612375535440291
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0161324278383809
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00806164670279267
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0236161877636663
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.109276332444771
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0590920551308346
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0473783290730238
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.022521152354571
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.00860958661185932
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.000885181954099115
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0430463113796777
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0626781596788665
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.109812616375027
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.150034119913914
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.105194225118461
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0695047006911399
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0784919060736833
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0552451507899064
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0835583554233247
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0270352372468154
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.08402164886662
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.124444053812536
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0399369409686426
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0386647146421523
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0592364434742524
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0345309198649941
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0126386284823975
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.034542303155088
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0852563225786776
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.074149584389095
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.02692370733978
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0955571431368817
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0839972177636034
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.14131375679584
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0229248634280588
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0410363636546382
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0658573585403372
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.130156638148953
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00475114804734326
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.139975590073456
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.023531101458572
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0562131157319762
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.100626496050065
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.129031871391225
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0777833164690782
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.203601645510825
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0236505607899457
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.103097328158848
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.128146884814604
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0579110537908013
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.00830013422944849
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00207019375127822
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0606336025583724
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.117796351498282
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0759136067778888
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.000135313993279728
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.107410428252921
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.000438740013451132
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00323723397541083
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0927320193423258
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0499449937458627
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0551321445472049
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0509467051266327
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.108102080955784
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0236869737915626
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0206769351879193
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.039246869409216
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0490159655042829
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0269122418135863
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0204172973534909
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0415926317035723
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0673659683739807
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0429684953974363
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0850299647104057
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.130609248649021
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0115741056217227
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0805857255875156
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.103349299162761
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.13118523213621
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0133952764435409
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.105970212077642
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0557510303105554
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0343142864064791
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0316763556055574
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.06533825875629
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.107718148912141
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00335265405036766
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0105443878912579
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0469196121212701
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.106827557047904
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0337476026938146
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0157784268475739
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0734739502156061
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.00345541188648817
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00459999767356207
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0186782986289062
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0846354773802091
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.00815769677780874
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0732637148924055
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.000353442639699491
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0272759762101471
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.132225629920551
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.129068435139349
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.022964830738183
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.106169961256955
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0145963905576933
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0300080843443619
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0127312650135279
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0872912140728618
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00355669073094235
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0415594017883906
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0597158983111107
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0372969051448333
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.110355224702007
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.089252652394554
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.109123493803952
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.013841372377293
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00187881793658912
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0378597954044235
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.00095896477920813
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.123675315956927
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.000814435502244147
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.117434241420834
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.173395716510039
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0596653031729924
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0819038234323493
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00333202487298672
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0506086412771153
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0196130010312402
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0526864970162435
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0743900800491796
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0494710193532273
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.10152798554593
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.029862315483584
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0416245695099124
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",-0.0188491906326748
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0224003542284264
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0788699873618978
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0889785006685267
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.119131984390038
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.0517032044810433
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.00963985400656376
+"high_alpha_low_beta","DeepSeek-V3","run","v0","alpha",0.126168417606879
